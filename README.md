@@ -1,7 +1,6 @@
 <a href="https://storyset.com/web">
   <img align="right" src="./img/avatar.svg" alt="a dev" width=40% height=40% />
 </a>
-
 ## Fala, dev! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
 
 <a href="https://github.com/MarinaSantello/MarinaSantello/blob/main/README-EN.md">🇺🇸 Do not speak Portuguese? Click here to view the English version.</a>
