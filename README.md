@@ -39,6 +39,3 @@ Meu nome é Marina Santello e estou fazendo um curso técnico de desenvolvimento
 </div>
 
 ![Snake animation](https://github.com/MarinaSantello/MarinaSantello/blob/output/github-contribution-grid-snake.svg)
-# MarinaSantello
-# MarinaSantello
-# MarinaSantello
