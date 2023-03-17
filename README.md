@@ -21,7 +21,7 @@ Meu nome é Marina Santello e estou fazendo um curso técnico de desenvolvimento
 
 💾 Armazenamento em bancos de dados relacionais (SQL) como MySQL
 
-📱 Aplicativos para dispositivos móveis com Kotlin (Apenas Android)
+📱 Aplicativos para dispositivos móveis com Kotlin, utilizando Jetpack Compose (Apenas Android)
 
 ### Sobre mim:
 
